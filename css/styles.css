@@ -57,7 +57,8 @@ header,
 hgroup, 
 menu, 
 nav, 
-section {
+section,
+div {
 	display: block;
 }
 #maincontent {
@@ -187,6 +188,9 @@ nav h1 a {
   max-width: 400px;
   min-width: 270px;
 }
+
+/* Setting responsiveness for different screen sizes */
+
 @media only screen and (min-width: 0px) {
   #restaurants-list li {
     max-width: 100%;
@@ -326,5 +330,9 @@ nav h1 a {
   color: #666;
   padding: 0px 0px 0px 25px;
 }
-
-
+#restaurant-location {
+  display: none;
+}
+#restaurant-hours-label {
+  display: none;
+}

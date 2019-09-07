@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-I was tasked with taking a static design that lacks accessibility and convering the design to be responsive on different sized displays and accessible for screen reader use. There was also a requirement to add a service worker to begin the process of creating a seamless offline experience for users.
+I was tasked with taking a static design that lacks accessibility and converting the design to be responsive on different sized displays and accessible for screen reader use. There was also a requirement to add a service worker to begin the process of creating a seamless offline experience for users.
 
 ## Getting Started
 
@@ -25,6 +25,7 @@ To open the project in your browser do the following.
 
 ## Resources and Recognition
 
+* [MapBox Site](https://www.mapbox.com/)
 * Google posts on Service Workers.
     * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
     * [Adding a Service Worker and Offline into your Web App](https://developers.google.com/web/fundamentals/codelabs/offline/)
